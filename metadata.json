@@ -1,0 +1,6 @@
+{
+  "name": "Grow With Code",
+  "description": "Learn programming, practice coding, assess your skills and prepare for technical interviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
